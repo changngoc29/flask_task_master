@@ -1,3 +1,1 @@
-# flask_task_master
-
-web here: https://flasktask29.herokuapp.com/
+Some thing with framework Flask of Python -> To Do List
